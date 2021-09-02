@@ -33,6 +33,6 @@
 
 
 ### - Blog 🌱
---> https://dev.to/gabrielras
+--> https://medium.com/@gabrielras100
 
 
