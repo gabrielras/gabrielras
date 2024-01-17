@@ -17,7 +17,6 @@
 🎓 Computer Engineer from the Universidade Federal do Ceará (UFC-Brazil)
 
 <a href="https://www.linkedin.com/in/gabriel-rocha-321061181/" rel="some text">![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://t.me/gabriel_rocha1" rel="some text">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
 
 **About Me:**
 - 🎯 I've been working with Ruby on Rails since 2018;
